@@ -1,0 +1,7 @@
+#Thu May 11 20:56:35 EDT 2017
+base.0=/Users/guangyang/Downloads/WicedSense/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_daeb355d95e0457968ee62081ce4ab1a901bec85
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/guangyang/Downloads/WicedSense/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01f5a7bb612b609957e72bf143938e539b825031/classes.dex
+base.1=/Users/guangyang/Downloads/WicedSense/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01f5a7bb612b609957e72bf143938e539b825031
+file.0=/Users/guangyang/Downloads/WicedSense/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_daeb355d95e0457968ee62081ce4ab1a901bec85/classes.dex

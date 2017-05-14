@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

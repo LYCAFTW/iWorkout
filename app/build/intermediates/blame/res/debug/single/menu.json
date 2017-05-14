@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/menu/device_picker.xml",
+        "source": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/menu/device_picker.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/menu/profile_menu.xml",
+        "source": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/menu/profile_menu.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/menu/main.xml"
+    }
+]

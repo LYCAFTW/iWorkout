@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="358dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="20dp"
+        android:maxHeight="75dp"
+        android:maxWidth="100dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/iworkout"
+        android:layout_weight="0.07" />
+
+    <TextView
+        android:text="Please enter your Info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:id="@+id/textView"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp" />
+
+    <EditText
+        android:id="@+id/field_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="email"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:textColor="@color/black"
+        android:background="@android:drawable/edit_text"
+        android:layout_marginTop="5dp"
+        android:adjustViewBounds="true"/>
+
+    <EditText
+        android:id="@+id/field_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:textColor="@color/black"
+        android:background="@android:drawable/edit_text"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/email_sign_in_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:text="sign_in"/>
+
+    <Button
+        android:id="@+id/email_create_account_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:textSize="18dp"
+        android:text="create_account"/>
+
+    <TextView
+        android:text="1. Login with your Email\n2. Enjoy the app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:layout_margin="10dp"
+        android:id="@+id/textView2"
+        android:textSize="18dp"/>
+
+
+</LinearLayout>

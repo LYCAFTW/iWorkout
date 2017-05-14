@@ -1,0 +1,6 @@
+*.iml
+app/build/*
+local.properties
+.idea/*
+.gradle/*
+build/*

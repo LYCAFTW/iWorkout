@@ -1,0 +1,674 @@
+[
+    {
+        "outputFile": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 68,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 68,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 69,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 69,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 73,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 73,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 75,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 75,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 58,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 58,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 70,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 70,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 67,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/96f5736331aba382d6e2e4f3dc85aa4568e19349/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 67,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 49,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 49,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 50,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 50,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 50,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 50,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 51,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 51,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 52,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 52,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 52,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 52,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 59,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 69,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 69,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 70,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 70,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 71,
+                    "endOffset": 1333
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 71,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1338,
+                    "endColumn": 57,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 57,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 57,
+                    "endOffset": 1449
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 57,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1454,
+                    "endColumn": 105,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 105,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 63,
+                    "endOffset": 1619
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 63,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1624,
+                    "endColumn": 41,
+                    "endOffset": 1661
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 41,
+                        "endOffset": 53
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1666,
+                    "endColumn": 49,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 49,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 49,
+                    "endOffset": 1761
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 49,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1766,
+                    "endColumn": 42,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endColumn": 62,
+                    "endOffset": 1867
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 62,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1872,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2049
+                },
+                "from": {
+                    "file": "/Users/guangyang/.android/build-cache/3dc5d0a2770d0b31e3ebca086b98a32cde8cda87/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2054,
+                    "endColumn": 90,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 91,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2145,
+                    "endColumn": 92,
+                    "endOffset": 2233
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 93,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2238,
+                    "endColumn": 89,
+                    "endOffset": 2323
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 90,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2328,
+                    "endColumn": 91,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw600dp/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 91,
+                        "endOffset": 142
+                    }
+                }
+            }
+        ]
+    }
+]

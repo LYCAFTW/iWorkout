@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/menu-land/main.xml",
+        "source": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/menu-land/main.xml"
+    },
+    {
+        "merged": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/res/merged/debug/menu-land/profile_menu.xml",
+        "source": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/menu-land/profile_menu.xml"
+    }
+]

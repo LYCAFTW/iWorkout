@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/Users/guangyang/Downloads/WicedSense/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 49,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 50,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 50,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 50,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 50,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 51,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 52,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 52,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 52,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 52,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 49,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 49,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 49,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 49,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 89,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 90,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 91,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 92,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 88,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 89,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 90,
+                    "endOffset": 822
+                },
+                "from": {
+                    "file": "/Users/guangyang/Downloads/WicedSense/app/src/main/res/values-sw720dp-land/sensor_ui_settings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            }
+        ]
+    }
+]
